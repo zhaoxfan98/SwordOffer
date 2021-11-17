@@ -1,2 +1,3 @@
-# SwordOffer
-剑指Offer,Java和Go实现
+# LeetCode刷题笔记
+
+LeetCode刷题笔记,Java和Go实现
