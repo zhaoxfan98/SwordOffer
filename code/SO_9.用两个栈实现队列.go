@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode.cn id=594 lang=golang
+ *
+ * [594] 最长和谐子序列
+ */
+
+// @lc code=start
 type CQueue struct {
 	stack1, stack2 *list.List
 }
@@ -26,3 +33,6 @@ func (this *CQueue) DeleteHead() int {
 	}
 	return -1
 }
+
+// @lc code=end
+
