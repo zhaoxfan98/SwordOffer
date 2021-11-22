@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+package code
+
 func twoSum(nums []int, target int) []int {
 	set := map[int]int{}
 	for i, v := range nums {
@@ -17,4 +19,3 @@ func twoSum(nums []int, target int) []int {
 }
 
 // @lc code=end
-
